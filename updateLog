@@ -1,4 +1,4 @@
-2020-03-24 09:58:07
+2020-03-25 09:59:06
 docs/FAQ.md
 docs/eschewedFeatures.md
 docs/fields.md
@@ -10,3 +10,4 @@ docs/versioningPolicy.md
 examples/inlinePatch.md
 examples/loadHttp.md
 examples/loadHttp/kustomization.yaml
+examples/remoteBuild.md
