@@ -1,12 +1,14 @@
-2020-03-25 09:59:06
+2020-03-26 10:00:03
 docs/FAQ.md
 docs/eschewedFeatures.md
 docs/fields.md
 docs/glossary.md
+docs/inventory_object.md
 docs/plugins/README.md
 docs/plugins/builtins.md
 docs/v2.1.0_changelog.md
 docs/versioningPolicy.md
+examples/helloWorld/README.md
 examples/inlinePatch.md
 examples/loadHttp.md
 examples/loadHttp/kustomization.yaml
