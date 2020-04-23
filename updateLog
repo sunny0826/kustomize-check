@@ -1,17 +1,1 @@
-2020-04-22 10:13:59
-docs/FAQ.md
-docs/eschewedFeatures.md
-docs/fields.md
-docs/glossary.md
-docs/inventory_object.md
-docs/plugins/README.md
-docs/plugins/builtins.md
-docs/v2.1.0_changelog.md
-docs/versioningPolicy.md
-examples/helloWorld/README.md
-examples/inlinePatch.md
-examples/jsonpatch.md
-examples/loadHttp.md
-examples/loadHttp/kustomization.yaml
-examples/patchMultipleObjects.md
-examples/remoteBuild.md
+2020-04-23 10:14:06
