@@ -4,8 +4,7 @@ set -e
 
 ./kust-check check
 git clone https://github.com/sunny0826/kustomize-check.git
-ls
-if [ ! -f "updateLog" ]; then
+if [ -f "updateLog" ]; then
     mv updateLog kustomize-check
     cd kustomize-check
     git add .
